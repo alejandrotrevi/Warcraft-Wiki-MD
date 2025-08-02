@@ -1,0 +1,16 @@
+# API IsRightMetaKeyDown
+
+**Contributor:** KethoBot
+
+## Content
+
+The following content is in MediaWiki markdown format:
+
+```mediawiki
+{{wowapi|t=a|system=Input}}
+Needs summary.
+ down = IsRightMetaKeyDown()
+
+==Returns==
+:;down:{{apitype|boolean}}
+```

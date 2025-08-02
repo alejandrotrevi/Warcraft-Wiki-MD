@@ -1,0 +1,13 @@
+# API C GenericWidgetDisplay.Close
+
+**Contributor:** KethoBot
+
+## Content
+
+The following content is in MediaWiki markdown format:
+
+```mediawiki
+{{wowapi|t=a|namespace=C_GenericWidgetDisplay|system=GenericWidgetDisplay}}
+Needs summary.
+ C_GenericWidgetDisplay.Close()
+```
